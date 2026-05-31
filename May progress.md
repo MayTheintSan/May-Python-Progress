@@ -111,3 +111,8 @@ Other Combination with Python
 * Addition (A)
 * Subtraction (S)
 
+Type Casting
+- Str + Str
+- int + int / int('str') + int => for str inside - can have space, bool, base10 but no complex, no float inside
+- float + float
+#for both (int+int) and (float+float) accept only str/int type
